@@ -2,9 +2,9 @@
 
 const Footer = () => {
   return (
-    <div>
-      
-    </div>
+    <footer>
+        Designed And Developed By CodeWithZeeshu
+    </footer>
   )
 }
 
